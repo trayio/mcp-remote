@@ -1,5 +1,5 @@
 {
-  "name": "mcp-remote",
+  "name": "@trayio/mcp-remote",
   "version": "0.1.29",
   "description": "Remote proxy for Model Context Protocol, allowing local-only clients to connect to remote servers using oAuth",
   "keywords": [
@@ -9,8 +9,11 @@
     "remote",
     "oauth"
   ],
-  "author": "Glen Maddern <glen@glenmaddern.com>",
-  "repository": "https://github.com/geelen/mcp-remote",
+  "author": "Tray.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trayio/mcp-remote.git"
+  },
   "type": "module",
   "files": [
     "dist",
