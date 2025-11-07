@@ -10,7 +10,10 @@
     "oauth"
   ],
   "author": "Tray.ai",
-  "repository": "https://github.com/geelen/mcp-remote",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trayio/mcp-remote.git"
+  },
   "type": "module",
   "files": [
     "dist",
