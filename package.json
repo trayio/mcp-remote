@@ -22,8 +22,8 @@
   ],
   "main": "dist/index.js",
   "bin": {
-    "mcp-remote": "dist/proxy.js",
-    "mcp-remote-client": "dist/client.js"
+    "@trayio/mcp-remote": "dist/proxy.js",
+    "@trayio/mcp-remote-client": "dist/client.js"
   },
   "scripts": {
     "build": "tsup",
