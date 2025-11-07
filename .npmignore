@@ -1,0 +1,22 @@
+# Development files
+.DS_Store
+.git*
+node_modules/
+
+# Documentation files not needed in the package
+CLAUDE.md
+USAGE.md
+QUICKSTART.md
+PROJECT_OVERVIEW.md
+CONTRIBUTING.md
+COMPARISON.md
+
+# Example files
+example-config.json
+
+# Other files
+*.log
+*.bak
+*.swp
+.idea/
+.vscode/
